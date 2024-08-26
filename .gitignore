@@ -1,0 +1,10 @@
+logs/
+*.zip
+.ipynb_checkpoints/
+__pycache__
+*.out
+*.log
+*.ipynb
+Dockerfile 
+ROMS/
+HC ROMS/
